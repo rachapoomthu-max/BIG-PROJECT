@@ -11,7 +11,7 @@ import Feed from './pages/Feed/Feed';
 import { ProfileProvider, ProfileContext } from './ProfileContext';
 import './App.css';
 import Login from "./pages/Login";
-import Register from "./Pages/Register";
+import Register from "./pages/Register";
 import Sidebar from "./components/Sidebar";
 import ChartPage from "./pages/ChartPage";
 import AdsManagement from "./pages/AdsManagement";
